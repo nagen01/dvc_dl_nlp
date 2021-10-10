@@ -1,0 +1,11 @@
+artifacts:
+  BASE_MODEL_DIR:
+  BASE_MODEL:
+  TUNED_MODEL_DIR:
+  FUNED_MODEL:
+  
+
+input_data_dirs:
+  
+
+local_data_dirs:
